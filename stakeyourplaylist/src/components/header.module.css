@@ -1,0 +1,9 @@
+.header {
+    /* background-color: transparent; */
+    color: #fff; 
+  padding: 20px; 
+  text-align: center; 
+  /* position: fixed; */
+  width: 100%; 
+  top: 0; 
+}
